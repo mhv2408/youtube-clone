@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the YouTube Clone project! This project is a full-stack application designed to mimic core functionalities of YouTube, such as uploading, transcoding, and viewing videos. The primary goal of this project is to demonstrate proficiency in modern web development technologies and cloud services.
+Hello! This project is a full-stack application designed to mimic core functionalities of YouTube, such as uploading, transcoding, and viewing videos. The primary goal of this project is to test, demonstrate my proficiency in modern web development technologies and cloud services.
 
 ## Features
 
@@ -116,6 +116,8 @@ Welcome to the YouTube Clone project! This project is a full-stack application d
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
+## Working Link
+I would like to publish the working link, but due to security issues, I could not do so. Please react out to me directly if you would like a demo.
 
 ## License
 
